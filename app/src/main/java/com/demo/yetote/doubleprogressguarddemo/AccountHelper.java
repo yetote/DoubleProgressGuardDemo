@@ -27,7 +27,6 @@ public class AccountHelper {
         }
         account = new Account("swg", ACCOUNT_TYPE);
 
-
         accountManager.addAccountExplicitly(account, "123", new Bundle());
     }
 
