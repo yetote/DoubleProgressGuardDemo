@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <sync-adapter xmlns:android="http://schemas.android.com/apk/res/android"
-    android:accountType="com.yetote.sync"
+    android:accountType="com.yetote.authenticator"
     android:allowParallelSyncs="false"
     android:contentAuthority="com.yetote.sync_provider"
     android:isAlwaysSyncable="true"

@@ -26,6 +26,7 @@ public class AuthenticationService extends Service {
         accountAuthentication = new AccountAuthentication(this);
     }
 
+
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
